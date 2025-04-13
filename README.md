@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/mh-shihan">
-<img src="https://github.com/mh-shihan/mh-shihan/blob/main/github-cover.png" />
+<img src="https://github.com/mh-shihan/mh-shihan/blob/main/images/github-cover.png" />
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
