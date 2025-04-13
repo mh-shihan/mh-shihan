@@ -58,5 +58,9 @@
 </p><br/>
 
 ## :eyes: Current overview
-
+### 🔭 I’m working - On a group project for my own business. 
+### 🌱 I’m exploring - Redux and Next.js. 
+### 👯 I’m looking - To collaborate on open source projects. 
+### 🤔 I’m trying - To help people learn web development. 
+### ⚡ Fun fact - I love C++ for problem solving and I can speak 4 languages.
 
