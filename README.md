@@ -13,7 +13,18 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mh-shihan)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mhshihan01)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://x.com/mh_shihan)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mh-shihan"  target="_blank">
+    <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">
+  </a>
+  <a href="https://www.facebook.com/mhshihan01"  target="_blank">
+    <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">
+  </a>
+  <a href="https://x.com/mh_shihan"  target="_blank">
+    <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png">
+  </a>
+</p>
+
 
 <br />
 
