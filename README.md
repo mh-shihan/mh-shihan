@@ -58,6 +58,9 @@
 </p><br/>
 
 ## :eyes: Current overview
+<div align="left">
+<a href="https://app.daily.dev/mh_shihan"><img align="right" src="https://github.com/mh-shihan/mh-shihan/blob/main/devcard.png" width="200" alt="Shihan's Dev Card"/></a>
+</div>
 ### 🔭 I’m working - On a group project for my own business. 
 ### 🌱 I’m exploring - Redux and Next.js. 
 ### 👯 I’m looking - To collaborate on open source projects. 
