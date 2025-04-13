@@ -18,7 +18,7 @@
     <img height="75" src="https://github.com/mh-shihan/mh-shihan/blob/main/images/icons/Linkedin.png">
   </a>
   <a href="https://www.facebook.com/mhshihan01"  target="_blank">
-    <img height="75" src="https://github.com/mh-shihan/mh-shihanblob/main/images/icons/Facebook.png">
+    <img height="75" src="https://github.com/mh-shihan/mh-shihan/blob/main/images/icons/Facebook.png">
   </a>
   <a href="https://x.com/mh_shihan"  target="_blank">
     <img height="75" src="https://github.com/mh-shihan/mh-shihan/blob/main/images/icons/Twitter.png">
