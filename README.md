@@ -66,5 +66,5 @@
 ### 🌱 I’m exploring - Typescript, Redux, Next.js and Mongooese.
 ### 👯 I’m looking - To collaborate on open source projects. 
 ### 🤔 I’m trying - To help people learn programming & web development. 
-### ⚡ Fun fact - I love C++ for problem solving and I can speak in 4 languages.
+### ⚡ Fun fact - I love C++ for problem solving and I can speak in 3 languages.
 
