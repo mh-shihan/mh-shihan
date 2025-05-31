@@ -25,7 +25,6 @@
   </a>
 </p>
 
-
 <br />
 
 ## :computer: Technologies that I know
@@ -36,6 +35,7 @@
   <img src="https://github.com/mh-shihan/mh-shihan/blob/main/images/icons/HTML.png"/>
   <img src="https://github.com/mh-shihan/mh-shihan/blob/main/images/icons/css.png"/>
   <img src="https://github.com/mh-shihan/mh-shihan/blob/main/images/icons/JavaScript.png"/>
+  <img src="https://github.com/mh-shihan/mh-shihan/blob/main/images/icons/typescript.png"/>
   <img src="https://github.com/mh-shihan/mh-shihan/blob/main/images/icons/python.png"/>
   <img src="https://github.com/mh-shihan/mh-shihan/blob/main/images/icons/c.png"/>
   <img src="https://github.com/mh-shihan/mh-shihan/blob/main/images/icons/cpp.png"/>
@@ -58,13 +58,17 @@
 </p><br/>
 
 ## :eyes: Current overview
+
 <div align="left">
 <a href="https://app.daily.dev/mh_shihan"><img align="right" src="https://github.com/mh-shihan/mh-shihan/blob/main/devcard.png" width="200" alt="Shihan's Dev Card"/></a>
 </div>
 
-### 🔭 I’m working - On a group project for my own business. 
-### 🌱 I’m exploring - Typescript, Redux, Next.js and Mongooese.
-### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To help people learn programming & web development. 
-### ⚡ Fun fact - I love C++ for problem solving and I can speak in 4 languages.
+### 🔭 I’m working - On a group project for my own business.
 
+### 🌱 I’m exploring - Typescript, Redux, Next.js and Mongooese.
+
+### 👯 I’m looking - To collaborate on open source projects.
+
+### 🤔 I’m trying - To help people learn programming & web development.
+
+### ⚡ Fun fact - I love C++ for problem solving and I can speak in 4 languages.
