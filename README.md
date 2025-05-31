@@ -34,7 +34,7 @@
 <p align="center">
   <img src="https://github.com/mh-shihan/mh-shihan/blob/main/images/icons/HTML.png"/>
   <img src="https://github.com/mh-shihan/mh-shihan/blob/main/images/icons/css.png"/>
-  <img src="https://github.com/mh-shihan/mh-shihan/blob/main/images/icons/JavaScript.png"/>
+  <img src="https://github.com/mh-shihan/mh-shihan/blob/main/images/icons/js.png"/>
   <img src="https://github.com/mh-shihan/mh-shihan/blob/main/images/icons/typescript.png"/>
   <img src="https://github.com/mh-shihan/mh-shihan/blob/main/images/icons/python.png"/>
   <img src="https://github.com/mh-shihan/mh-shihan/blob/main/images/icons/c.png"/>
