@@ -65,7 +65,7 @@
 
 ### 🔭 I’m working - On a projectas a backend developer for my own business.
 
-### 🌱 I’m exploring - Typescript, Redux, Next.js and Mongooese.
+### 🌱 I’m exploring - Typescript, Redux, Next.js Mongooese, and PlayCanas.
 
 ### 👯 I’m looking - To collaborate on open source projects.
 
