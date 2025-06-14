@@ -63,12 +63,12 @@
 <a href="https://app.daily.dev/mh_shihan"><img align="right" src="https://github.com/mh-shihan/mh-shihan/blob/main/devcard.png" width="200" alt="Shihan's Dev Card"/></a>
 </div>
 
-### 🔭 I’m working - On a projectas a backend developer for my own business.
+### 🔭 I’m working - On a project as a backend developer for my own business.
 
-### 🌱 I’m exploring - Typescript, Redux, Next.js Mongooese, and PlayCanas.
+### 🌱 I’m exploring - Typescript, Redux, Next.js, Mongooese, and PlayCanvas.
 
 ### 👯 I’m looking - To collaborate on open source projects.
 
 ### 🤔 I’m trying - To help people learn programming & web development.
 
-### ⚡ Fun fact - I love C++ for problem solving and I can speak in 4 languages.
+### ⚡ Fun fact - I love C++ for problem solving, and I can speak in 4 languages.
